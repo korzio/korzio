@@ -6,7 +6,7 @@ I'm a Software Engineer for the last 15 years. I admire and practice self-develo
 </p>
 
 - I play JavaScript, Node.js, TypeScript, Go, Git, Docker, Java, Ruby, Kubernetes 🔭
-- My interests are around Architecture, Microservices, MicroFrontEnds, Backend, DevOps, JSON Schema, Web Components, Algorithms 🌱
+- My interests are around Architecture, Microservices, MicroFrontEnds, DevOps, JSON Schema, Web Components, Algorithms 🌱
 - I write articles on **[Medium](https://korzio.medium.com/)** 📝
 - Ask me about anything **[AlexKorzhikov Twitter](http://twitter.com/AlexKorzhikov)** 📫
 - We're talking **[XTechnology](https://xtechnology.dev/)** 💬
