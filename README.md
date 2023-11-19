@@ -1,8 +1,8 @@
-### Hi there, I'm Alex 👋
+### Hi there I'm Alex 👋
 
 <!-- About me -->
 <p>
-I'm a Software Engineer for the last 15 years. I admire and practice self-development and craftsmanship, exploring technologies, coding open source and enterprise projects, teaching, speaking and writing about programming 👋 ⚽️ 🧑‍💻 🎧
+I'm a software engineer for the last 15 years. I admire and practice self-development and craftsmanship, exploring technologies, coding open source and enterprise projects, teaching, speaking and writing about programming 👋 ⚽️ 🧑‍💻 🎧
 </p>
 
 - I play **JavaScript, Node.js, TypeScript, Go, Git, Docker, Java, Ruby, Kubernetes** 🔭
